@@ -1,6 +1,6 @@
 # Geração Tech Unimed-BH | Fullstack
 
- ## Cursos ja feitos
+ ## Cursos já feitos
  - Conheça as Oportunidades da DIO
  - Seja Protagonista Neste Bootcamp
  - Boas-vindas ao Bootcamp: Geração Tech Unimed BH | Fullstack
