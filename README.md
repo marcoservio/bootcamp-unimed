@@ -9,6 +9,7 @@
  - Introdução ao Git e ao GitHub
  - Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso 
  - Primeiros passos para desenvolvimento web
+ - Introdução a criação de websites com HTML5 e CSS3
 
 ## Fazendo
- - Introdução a criação de websites com HTML5 e CSS3
+- Posicionando elementos com Flexbox em CSS
