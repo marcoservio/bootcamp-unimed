@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fundamentos - align content</title>
+    <style>
+        .container {
+            height: 400px;
+            max-width: 300px;
+            display: flex;
+            flex-wrap: wrap;
+            border: 1px solid black;
+        }
+        .item {
+            background-color: orangered;
+            padding: 5px;
+            margin: 5px;
+            flex: 1;
+            text-align: center;
+            color: white;
+            border: 2px solid black;
+        }
+        p {
+            font-size: 18px;
+            font-weight: bold;
+        }
+        .stretch {
+            align-content: stretch;
+        }
+        .center {
+            align-content: center;
+        }
+        .flex-start {
+            align-content: flex-start;
+        }
+        .flex-end {
+            align-content: flex-end;
+        }
+        .space-around {
+            align-content: space-around;
+        }
+        .space-between {
+            align-content: space-between;
+        }
+    </style>
+</head>
+<body>
+    <p>stretch</p>
+    <div class="container strectch">
+        <div class="item">Lorem Ipsum is simply dummy text of the printing and typesetting industry</div>
+        <div class="item">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when</div>
+        <div class="item">it to make a type specimen book. It has survived not only five centuries, but also</div>
+        <div class="item">the leap into electronic typesetting, remaining essentially unchanged. It wa</div>
+        <div class="item">orem Ipsum is simply dummy text</div>
+        <div class="item">orem Ipsum is simply dummy text</div>
+        <div class="item">orem Ipsum is simply dummy text</div>
+    </div>
+    <p>center</p>
+    <div class="container center">
+        <div class="item">Lorem Ipsum is simply dummy text of the printi</div>
+        <div class="item">Lorem Ipsum has been the industry's standard d</div>
+        <div class="item">it to make a type specimen book. It has surviv</div>
+        <div class="item">the leap into electronic typesetting, remaininwa</div>
+        <div class="item">orem Ipsum is simply dummy text</div>
+        <div class="item">orem Ipsum is simply dummy text</div>
+        <div class="item">orem Ipsum is simply dummy text</div>
+    </div>
+    <p>flex-start</p>
+    <div class="container flex-start">
+        <div class="item">Lorem Ipsum is simply dummy text of the printi</div>
+        <div class="item">Lorem Ipsum has been the industry's standard d</div>
+        <div class="item">it to make a type specimen book. It has surviv</div>
+        <div class="item">the leap into electronic typesetting, remaininwa</div>
+        <div class="item">orem Ipsum is simply dummy text</div>
+        <div class="item">orem Ipsum is simply dummy text</div>
+        <div class="item">orem Ipsum is simply dummy text</div>
+    </div>
+    <p>flex-end</p>
+    <div class="container flex-end">
+        <div class="item">Lorem Ipsum is simply dummy text of the printi</div>
+        <div class="item">Lorem Ipsum has been the industry's standard d</div>
+        <div class="item">it to make a type specimen book. It has surviv</div>
+        <div class="item">the leap into electronic typesetting, remaininwa</div>
+        <div class="item">orem Ipsum is simply dummy text</div>
+        <div class="item">orem Ipsum is simply dummy text</div>
+        <div class="item">orem Ipsum is simply dummy text</div>
+    </div>
+    <p>space-around</p>
+    <div class="container space-around">
+        <div class="item">Lorem Ipsum is simply dummy text of the printi</div>
+        <div class="item">Lorem Ipsum has been the industry's standard d</div>
+        <div class="item">it to make a type specimen book. It has surviv</div>
+        <div class="item">the leap into electronic typesetting, remaininwa</div>
+        <div class="item">orem Ipsum is simply dummy text</div>
+        <div class="item">orem Ipsum is simply dummy text</div>
+        <div class="item">orem Ipsum is simply dummy text</div>
+    </div>
+    <p>space-between</p>
+    <div class="container space-between">
+        <div class="item">Lorem Ipsum is simply dummy text of the printi</div>
+        <div class="item">Lorem Ipsum has been the industry's standard d</div>
+        <div class="item">it to make a type specimen book. It has surviv</div>
+        <div class="item">the leap into electronic typesetting, remaininwa</div>
+        <div class="item">orem Ipsum is simply dummy text</div>
+        <div class="item">orem Ipsum is simply dummy text</div>
+        <div class="item">orem Ipsum is simply dummy text</div>
+    </div>
+</body>
+</html>
