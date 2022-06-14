@@ -11,6 +11,7 @@
  - Primeiros passos para desenvolvimento web
  - Introdução a criação de websites com HTML5 e CSS3
  - Posicionando elementos com Flexbox em CSS
+ - Recriando a página inicial do Instagran
 
 ## Fazendo
-- Recriando a página inicial do Instagran
+- Introdução ao JavaScript
