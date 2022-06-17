@@ -12,6 +12,8 @@
  - Introdução a criação de websites com HTML5 e CSS3
  - Posicionando elementos com Flexbox em CSS
  - Recriando a página inicial do Instagram
+ - Introdução ao JavaScript
+ - Sintaxe e Operadores
 
 ## Fazendo
-- Introdução ao JavaScript
+- Sintaxe Básica em JavaScript
