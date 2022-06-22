@@ -15,6 +15,7 @@
  - Introdução ao JavaScript
  - Sintaxe e Operadores
  - Sintaxe Básica em JavaScript
+ - Variáveis e Tipos
 
 ## Fazendo
-- Variáveis e Tipos
+- Trabalhando com Módulos em JavaScript
