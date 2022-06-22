@@ -14,6 +14,7 @@
  - Recriando a página inicial do Instagram
  - Introdução ao JavaScript
  - Sintaxe e Operadores
+ - Sintaxe Básica em JavaScript
 
 ## Fazendo
-- Sintaxe Básica em JavaScript
+- Variáveis e Tipos
