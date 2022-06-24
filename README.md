@@ -17,6 +17,9 @@
  - Sintaxe Básica em JavaScript
  - Variáveis e Tipos
  - Trabalhando com Módulos em JavaScript
+ - Funções
+ - Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces
+ - Desafios Iniciais Js - Unimed BH
 
 ## Fazendo
-- Funções
+- Introdução Prática ao TypeScript
