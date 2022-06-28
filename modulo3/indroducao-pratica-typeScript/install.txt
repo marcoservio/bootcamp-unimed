@@ -1,0 +1,11 @@
+instalar o node
+entrar na pasta do projeto
+npm init
+npm install -g typescript
+
+testes/executar
+    nmp start
+    npm rum watch
+
+
+https://www.typescriptlang.org/docs/
