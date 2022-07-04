@@ -21,6 +21,7 @@
  - Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces
  - Desafios Iniciais Js - Unimed BH
  - Introdução Prática ao TypeScript
+ - Introdução ao Angular 8
 
 ## Fazendo
-- Introdução ao Angular 8
+- Trabalhando com Páginas SPA com Angular

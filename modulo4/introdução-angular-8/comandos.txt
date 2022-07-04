@@ -1,0 +1,5 @@
+instalar node
+npm install -g @angular/cli
+ng new course-manager
+ng serve
+npm install boostrap
