@@ -22,6 +22,8 @@
  - Desafios Iniciais Js - Unimed BH
  - Introdução Prática ao TypeScript
  - Introdução ao Angular 8
+ - Trabalhando com Páginas SPA com Angular
+ - A arquitetura de componentes e a gestão da complexidade no front-end
 
 ## Fazendo
-- Trabalhando com Páginas SPA com Angular
+- Instalando e Preparando o Ambiente Angular

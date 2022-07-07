@@ -1,0 +1,4 @@
+ng new spaangular --prefix=spa
+ng serve -o
+ng add @angular/material
+ng g c NomeComponente
