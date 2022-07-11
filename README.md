@@ -25,6 +25,8 @@
  - Trabalhando com Páginas SPA com Angular
  - A arquitetura de componentes e a gestão da complexidade no front-end
  - Instalando e Preparando o Ambiente Angular
+ - Explorando Diretivas com Angular
+ - Implementando Serviços e Injeção de Dependência com Angular
 
 ## Fazendo
-- Explorando Diretivas com Angular
+- Introdução a Serviços Assíncronos no Angular
