@@ -27,6 +27,7 @@
  - Instalando e Preparando o Ambiente Angular
  - Explorando Diretivas com Angular
  - Implementando Serviços e Injeção de Dependência com Angular
+ - Introdução a Serviços Assíncronos no Angular
 
 ## Fazendo
-- Introdução a Serviços Assíncronos no Angular
+- O Poder do Data Binding no Angular
