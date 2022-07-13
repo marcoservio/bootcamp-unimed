@@ -13,13 +13,16 @@ import { ButtonComponent } from './components/button/button.component';
 import { LifeCycleComponent } from './components/life-cycle/life-cycle.component';
 import { TodoListComponent } from './pages/todo/todo-list/todo-list.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-import {MatInputModule} from '@angular/material/input';
-import {MatCardModule} from '@angular/material/card';
-import {MatGridListModule} from '@angular/material/grid-list';
+import { MatInputModule } from '@angular/material/input';
+import { MatCardModule } from '@angular/material/card';
+import { MatGridListModule } from '@angular/material/grid-list';
 import { TodoItemComponent } from './pages/todo/todo-item/todo-item.component';
-import {MatListModule} from '@angular/material/list';
-import {MatButtonModule} from '@angular/material/button';
-import {MatIconModule} from '@angular/material/icon';
+import { MatListModule } from '@angular/material/list';
+import { MatButtonModule } from '@angular/material/button';
+import { MatIconModule } from '@angular/material/icon';
+import { PipesExampleComponent } from './pages/pipes-example/pipes-example.component';
+import { UpperCasePipe } from '@angular/common';
+import { PrintListPipe } from './pipes/print-list.pipe';
 
 @NgModule({
   declarations: [
@@ -32,6 +35,8 @@ import {MatIconModule} from '@angular/material/icon';
     LifeCycleComponent,
     TodoListComponent,
     TodoItemComponent,
+    PipesExampleComponent,
+    PrintListPipe,
   ],
   imports: [
     BrowserModule,
@@ -45,9 +50,9 @@ import {MatIconModule} from '@angular/material/icon';
     MatGridListModule,
     MatListModule,
     MatButtonModule,
-    MatIconModule
+    MatIconModule,
   ],
-  providers: [],
+  providers: [UpperCasePipe],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

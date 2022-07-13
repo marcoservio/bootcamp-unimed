@@ -30,6 +30,8 @@
  - Introdução a Serviços Assíncronos no Angular
  - O Poder do Data Binding no Angular
  - Trabalhando com Componentes em Angular
+ - Criação de Pipes com Angular
+ - Desafios Intermediários Js - Unimed BH
 
 ## Fazendo
-- Criação de Pipes com Angular
+- Como criar um front-end de um e-commerce utilizando Angular
