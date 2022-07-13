@@ -1,3 +1,4 @@
+import { TodoListComponent } from './pages/todo/todo-list/todo-list.component';
 import { DataBindingComponent } from './pages/data-binding/data-binding.component';
 import { NgModule, Component } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
@@ -8,7 +9,8 @@ const routes: Routes = [
   { path: '', component: UsersListComponent },
   { path: 'form', component: UserFormComponent },
   { path: 'form/:id', component: UserFormComponent },
-  { path: 'data-binding', component: DataBindingComponent }
+  { path: 'data-binding', component: DataBindingComponent },
+  { path: 'todo', component: TodoListComponent}
 ];
 
 @NgModule({
