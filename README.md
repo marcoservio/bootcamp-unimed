@@ -32,6 +32,7 @@
  - Trabalhando com Componentes em Angular
  - Criação de Pipes com Angular
  - Desafios Intermediários Js - Unimed BH
+ - Como criar um front-end de um e-commerce utilizando Angular
 
 ## Fazendo
-- Como criar um front-end de um e-commerce utilizando Angular
+- 
