@@ -33,6 +33,9 @@
  - Criação de Pipes com Angular
  - Desafios Intermediários Js - Unimed BH
  - Como criar um front-end de um e-commerce utilizando Angular
+ - MySql - Trabalhando com as suas primeiras tabelas
+ - MySql - Explorando relacionamentos com workbench
+ - MySQL - Consultas com Join
 
 ## Fazendo
-- 
+- Introdução ao Ecossistema .NET e Documentação
