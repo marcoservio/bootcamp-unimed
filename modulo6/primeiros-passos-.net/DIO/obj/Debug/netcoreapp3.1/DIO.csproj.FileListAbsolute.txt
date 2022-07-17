@@ -1,0 +1,14 @@
+C:\Users\MarcoPenido\Desktop\Projects\bootcampUnimedBH\modulo6\primeiros-passos-.net\DIO\bin\Debug\netcoreapp3.1\DIO.exe
+C:\Users\MarcoPenido\Desktop\Projects\bootcampUnimedBH\modulo6\primeiros-passos-.net\DIO\bin\Debug\netcoreapp3.1\DIO.deps.json
+C:\Users\MarcoPenido\Desktop\Projects\bootcampUnimedBH\modulo6\primeiros-passos-.net\DIO\bin\Debug\netcoreapp3.1\DIO.runtimeconfig.json
+C:\Users\MarcoPenido\Desktop\Projects\bootcampUnimedBH\modulo6\primeiros-passos-.net\DIO\bin\Debug\netcoreapp3.1\DIO.runtimeconfig.dev.json
+C:\Users\MarcoPenido\Desktop\Projects\bootcampUnimedBH\modulo6\primeiros-passos-.net\DIO\bin\Debug\netcoreapp3.1\DIO.dll
+C:\Users\MarcoPenido\Desktop\Projects\bootcampUnimedBH\modulo6\primeiros-passos-.net\DIO\bin\Debug\netcoreapp3.1\DIO.pdb
+C:\Users\MarcoPenido\Desktop\Projects\bootcampUnimedBH\modulo6\primeiros-passos-.net\DIO\obj\Debug\netcoreapp3.1\DIO.csproj.AssemblyReference.cache
+C:\Users\MarcoPenido\Desktop\Projects\bootcampUnimedBH\modulo6\primeiros-passos-.net\DIO\obj\Debug\netcoreapp3.1\DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarcoPenido\Desktop\Projects\bootcampUnimedBH\modulo6\primeiros-passos-.net\DIO\obj\Debug\netcoreapp3.1\DIO.AssemblyInfoInputs.cache
+C:\Users\MarcoPenido\Desktop\Projects\bootcampUnimedBH\modulo6\primeiros-passos-.net\DIO\obj\Debug\netcoreapp3.1\DIO.AssemblyInfo.cs
+C:\Users\MarcoPenido\Desktop\Projects\bootcampUnimedBH\modulo6\primeiros-passos-.net\DIO\obj\Debug\netcoreapp3.1\DIO.csproj.CoreCompileInputs.cache
+C:\Users\MarcoPenido\Desktop\Projects\bootcampUnimedBH\modulo6\primeiros-passos-.net\DIO\obj\Debug\netcoreapp3.1\DIO.dll
+C:\Users\MarcoPenido\Desktop\Projects\bootcampUnimedBH\modulo6\primeiros-passos-.net\DIO\obj\Debug\netcoreapp3.1\DIO.pdb
+C:\Users\MarcoPenido\Desktop\Projects\bootcampUnimedBH\modulo6\primeiros-passos-.net\DIO\obj\Debug\netcoreapp3.1\DIO.genruntimeconfig.cache

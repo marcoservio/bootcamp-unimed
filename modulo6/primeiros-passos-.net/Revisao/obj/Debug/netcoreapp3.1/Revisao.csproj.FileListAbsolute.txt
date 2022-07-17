@@ -1,0 +1,14 @@
+C:\Users\MarcoPenido\Desktop\Projects\bootcampUnimedBH\modulo6\primeiros-passos-.net\Revisao\bin\Debug\netcoreapp3.1\Revisao.exe
+C:\Users\MarcoPenido\Desktop\Projects\bootcampUnimedBH\modulo6\primeiros-passos-.net\Revisao\bin\Debug\netcoreapp3.1\Revisao.deps.json
+C:\Users\MarcoPenido\Desktop\Projects\bootcampUnimedBH\modulo6\primeiros-passos-.net\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.json
+C:\Users\MarcoPenido\Desktop\Projects\bootcampUnimedBH\modulo6\primeiros-passos-.net\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.dev.json
+C:\Users\MarcoPenido\Desktop\Projects\bootcampUnimedBH\modulo6\primeiros-passos-.net\Revisao\bin\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\MarcoPenido\Desktop\Projects\bootcampUnimedBH\modulo6\primeiros-passos-.net\Revisao\bin\Debug\netcoreapp3.1\Revisao.pdb
+C:\Users\MarcoPenido\Desktop\Projects\bootcampUnimedBH\modulo6\primeiros-passos-.net\Revisao\obj\Debug\netcoreapp3.1\Revisao.csproj.AssemblyReference.cache
+C:\Users\MarcoPenido\Desktop\Projects\bootcampUnimedBH\modulo6\primeiros-passos-.net\Revisao\obj\Debug\netcoreapp3.1\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarcoPenido\Desktop\Projects\bootcampUnimedBH\modulo6\primeiros-passos-.net\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfoInputs.cache
+C:\Users\MarcoPenido\Desktop\Projects\bootcampUnimedBH\modulo6\primeiros-passos-.net\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfo.cs
+C:\Users\MarcoPenido\Desktop\Projects\bootcampUnimedBH\modulo6\primeiros-passos-.net\Revisao\obj\Debug\netcoreapp3.1\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\MarcoPenido\Desktop\Projects\bootcampUnimedBH\modulo6\primeiros-passos-.net\Revisao\obj\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\MarcoPenido\Desktop\Projects\bootcampUnimedBH\modulo6\primeiros-passos-.net\Revisao\obj\Debug\netcoreapp3.1\Revisao.pdb
+C:\Users\MarcoPenido\Desktop\Projects\bootcampUnimedBH\modulo6\primeiros-passos-.net\Revisao\obj\Debug\netcoreapp3.1\Revisao.genruntimeconfig.cache

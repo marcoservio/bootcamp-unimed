@@ -36,6 +36,9 @@
  - MySql - Trabalhando com as suas primeiras tabelas
  - MySql - Explorando relacionamentos com workbench
  - MySQL - Consultas com Join
+ - Introdução ao Ecossistema .NET e Documentação
+ - Criando o ambiente de desenvolvimento
+ - Primeiros passos com .NET
 
 ## Fazendo
-- Introdução ao Ecossistema .NET e Documentação
+- Fundamentos de Coleções e LINQ com .NET
