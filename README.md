@@ -39,6 +39,7 @@
  - Introdução ao Ecossistema .NET e Documentação
  - Criando o ambiente de desenvolvimento
  - Primeiros passos com .NET
+ - Fundamentos de Coleções e LINQ com .NET
 
 ## Fazendo
-- Fundamentos de Coleções e LINQ com .NET
+- Tratamento de Erros em C# com Exceptions

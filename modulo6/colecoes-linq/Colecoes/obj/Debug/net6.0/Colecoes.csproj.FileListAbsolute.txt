@@ -1,0 +1,15 @@
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\colecoes-linq\Colecoes\bin\Debug\net6.0\Colecoes.exe
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\colecoes-linq\Colecoes\bin\Debug\net6.0\Colecoes.deps.json
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\colecoes-linq\Colecoes\bin\Debug\net6.0\Colecoes.runtimeconfig.json
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\colecoes-linq\Colecoes\bin\Debug\net6.0\Colecoes.dll
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\colecoes-linq\Colecoes\bin\Debug\net6.0\Colecoes.pdb
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\colecoes-linq\Colecoes\obj\Debug\net6.0\Colecoes.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\colecoes-linq\Colecoes\obj\Debug\net6.0\Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\colecoes-linq\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\colecoes-linq\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfo.cs
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\colecoes-linq\Colecoes\obj\Debug\net6.0\Colecoes.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\colecoes-linq\Colecoes\obj\Debug\net6.0\Colecoes.dll
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\colecoes-linq\Colecoes\obj\Debug\net6.0\refint\Colecoes.dll
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\colecoes-linq\Colecoes\obj\Debug\net6.0\Colecoes.pdb
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\colecoes-linq\Colecoes\obj\Debug\net6.0\Colecoes.genruntimeconfig.cache
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\colecoes-linq\Colecoes\obj\Debug\net6.0\ref\Colecoes.dll
