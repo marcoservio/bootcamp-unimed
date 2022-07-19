@@ -1,0 +1,15 @@
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\tratamento-erros\exception\bin\Debug\net6.0\exception.exe
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\tratamento-erros\exception\bin\Debug\net6.0\exception.deps.json
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\tratamento-erros\exception\bin\Debug\net6.0\exception.runtimeconfig.json
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\tratamento-erros\exception\bin\Debug\net6.0\exception.dll
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\tratamento-erros\exception\bin\Debug\net6.0\exception.pdb
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\tratamento-erros\exception\obj\Debug\net6.0\exception.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\tratamento-erros\exception\obj\Debug\net6.0\exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\tratamento-erros\exception\obj\Debug\net6.0\exception.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\tratamento-erros\exception\obj\Debug\net6.0\exception.AssemblyInfo.cs
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\tratamento-erros\exception\obj\Debug\net6.0\exception.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\tratamento-erros\exception\obj\Debug\net6.0\exception.dll
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\tratamento-erros\exception\obj\Debug\net6.0\refint\exception.dll
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\tratamento-erros\exception\obj\Debug\net6.0\exception.pdb
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\tratamento-erros\exception\obj\Debug\net6.0\exception.genruntimeconfig.cache
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\tratamento-erros\exception\obj\Debug\net6.0\ref\exception.dll
