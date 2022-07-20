@@ -1,0 +1,7 @@
+dotnet new sln -n NomeSulução
+mkdir nomePasta
+Entra na pasta
+dotnet new console
+volta um diretorio
+dotnet sln add ExemploPOO/ExemploPOO.csproj
+code .

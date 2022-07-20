@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marco\\OneDrive\\git-marcoservio\\bootcampUnimedBH\\modulo6\\arquivos-streams\\File_And_File_Info\\File_And_FileInfo\\File_And_FileInfo.csproj": {}
+    "C:\\Users\\marco\\OneDrive\\git-marcoservio\\bootcampUnimedBH\\modulo6\\poo\\ExemploPOO\\ExemploPOO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marco\\OneDrive\\git-marcoservio\\bootcampUnimedBH\\modulo6\\arquivos-streams\\File_And_File_Info\\File_And_FileInfo\\File_And_FileInfo.csproj": {
+    "C:\\Users\\marco\\OneDrive\\git-marcoservio\\bootcampUnimedBH\\modulo6\\poo\\ExemploPOO\\ExemploPOO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marco\\OneDrive\\git-marcoservio\\bootcampUnimedBH\\modulo6\\arquivos-streams\\File_And_File_Info\\File_And_FileInfo\\File_And_FileInfo.csproj",
-        "projectName": "File_And_FileInfo",
-        "projectPath": "C:\\Users\\marco\\OneDrive\\git-marcoservio\\bootcampUnimedBH\\modulo6\\arquivos-streams\\File_And_File_Info\\File_And_FileInfo\\File_And_FileInfo.csproj",
+        "projectUniqueName": "C:\\Users\\marco\\OneDrive\\git-marcoservio\\bootcampUnimedBH\\modulo6\\poo\\ExemploPOO\\ExemploPOO.csproj",
+        "projectName": "ExemploPOO",
+        "projectPath": "C:\\Users\\marco\\OneDrive\\git-marcoservio\\bootcampUnimedBH\\modulo6\\poo\\ExemploPOO\\ExemploPOO.csproj",
         "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marco\\OneDrive\\git-marcoservio\\bootcampUnimedBH\\modulo6\\arquivos-streams\\File_And_File_Info\\File_And_FileInfo\\obj\\",
+        "outputPath": "C:\\Users\\marco\\OneDrive\\git-marcoservio\\bootcampUnimedBH\\modulo6\\poo\\ExemploPOO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

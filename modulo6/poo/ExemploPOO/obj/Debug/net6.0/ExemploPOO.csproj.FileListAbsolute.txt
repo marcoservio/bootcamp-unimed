@@ -1,0 +1,15 @@
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\poo\ExemploPOO\bin\Debug\net6.0\ExemploPOO.exe
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\poo\ExemploPOO\bin\Debug\net6.0\ExemploPOO.deps.json
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\poo\ExemploPOO\bin\Debug\net6.0\ExemploPOO.runtimeconfig.json
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\poo\ExemploPOO\bin\Debug\net6.0\ExemploPOO.dll
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\poo\ExemploPOO\bin\Debug\net6.0\ExemploPOO.pdb
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\poo\ExemploPOO\obj\Debug\net6.0\ExemploPOO.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\poo\ExemploPOO\obj\Debug\net6.0\ExemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\poo\ExemploPOO\obj\Debug\net6.0\ExemploPOO.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\poo\ExemploPOO\obj\Debug\net6.0\ExemploPOO.AssemblyInfo.cs
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\poo\ExemploPOO\obj\Debug\net6.0\ExemploPOO.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\poo\ExemploPOO\obj\Debug\net6.0\ExemploPOO.dll
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\poo\ExemploPOO\obj\Debug\net6.0\refint\ExemploPOO.dll
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\poo\ExemploPOO\obj\Debug\net6.0\ExemploPOO.pdb
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\poo\ExemploPOO\obj\Debug\net6.0\ExemploPOO.genruntimeconfig.cache
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\poo\ExemploPOO\obj\Debug\net6.0\ref\ExemploPOO.dll

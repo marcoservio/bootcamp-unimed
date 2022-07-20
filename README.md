@@ -42,6 +42,7 @@
  - Fundamentos de Coleções e LINQ com .NET
  - Tratamento de Erros em C# com Exceptions
  - Trabalhando com Arquivos e Streams em C#
+ - Programando com Orientação a Objeto com C#
 
 ## Fazendo
-- Programando com Orientação a Objeto com C#
+- Construtores, Propriedades, Delegates e Eventos em .NET
