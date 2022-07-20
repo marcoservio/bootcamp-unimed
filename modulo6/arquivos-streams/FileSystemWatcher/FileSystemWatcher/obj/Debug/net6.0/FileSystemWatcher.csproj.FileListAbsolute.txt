@@ -1,0 +1,15 @@
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\FileSystemWatcher\FileSystemWatcher\bin\Debug\net6.0\FileSystemWatcher.exe
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\FileSystemWatcher\FileSystemWatcher\bin\Debug\net6.0\FileSystemWatcher.deps.json
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\FileSystemWatcher\FileSystemWatcher\bin\Debug\net6.0\FileSystemWatcher.runtimeconfig.json
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\FileSystemWatcher\FileSystemWatcher\bin\Debug\net6.0\FileSystemWatcher.dll
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\FileSystemWatcher\FileSystemWatcher\bin\Debug\net6.0\FileSystemWatcher.pdb
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\FileSystemWatcher\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\FileSystemWatcher\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\FileSystemWatcher\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\FileSystemWatcher\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.AssemblyInfo.cs
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\FileSystemWatcher\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\FileSystemWatcher\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.dll
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\FileSystemWatcher\FileSystemWatcher\obj\Debug\net6.0\refint\FileSystemWatcher.dll
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\FileSystemWatcher\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.pdb
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\FileSystemWatcher\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.genruntimeconfig.cache
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\FileSystemWatcher\FileSystemWatcher\obj\Debug\net6.0\ref\FileSystemWatcher.dll

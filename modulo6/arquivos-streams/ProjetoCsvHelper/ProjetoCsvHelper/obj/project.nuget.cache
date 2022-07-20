@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Son8GDyRe6AQa5guQQ/74+YHQ8ezoxPkkaDmO9msj0GUi3YdjvREaprcy34LN+1SU10aHfS6QRlJZsF824pq1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marco\\OneDrive\\git-marcoservio\\bootcampUnimedBH\\modulo6\\arquivos-streams\\ProjetoCsvHelper\\ProjetoCsvHelper\\ProjetoCsvHelper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marco\\.nuget\\packages\\csvhelper\\28.0.1\\csvhelper.28.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

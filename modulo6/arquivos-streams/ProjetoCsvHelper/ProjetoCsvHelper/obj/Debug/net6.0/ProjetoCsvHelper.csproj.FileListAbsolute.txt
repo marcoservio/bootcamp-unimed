@@ -1,0 +1,17 @@
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\ProjetoCsvHelper\ProjetoCsvHelper\bin\Debug\net6.0\ProjetoCsvHelper.exe
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\ProjetoCsvHelper\ProjetoCsvHelper\bin\Debug\net6.0\ProjetoCsvHelper.deps.json
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\ProjetoCsvHelper\ProjetoCsvHelper\bin\Debug\net6.0\ProjetoCsvHelper.runtimeconfig.json
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\ProjetoCsvHelper\ProjetoCsvHelper\bin\Debug\net6.0\ProjetoCsvHelper.dll
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\ProjetoCsvHelper\ProjetoCsvHelper\bin\Debug\net6.0\ProjetoCsvHelper.pdb
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\ProjetoCsvHelper\ProjetoCsvHelper\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\ProjetoCsvHelper\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\ProjetoCsvHelper\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\ProjetoCsvHelper\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\ProjetoCsvHelper\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.AssemblyInfo.cs
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\ProjetoCsvHelper\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\ProjetoCsvHelper\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.csproj.CopyComplete
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\ProjetoCsvHelper\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.dll
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\ProjetoCsvHelper\ProjetoCsvHelper\obj\Debug\net6.0\refint\ProjetoCsvHelper.dll
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\ProjetoCsvHelper\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.pdb
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\ProjetoCsvHelper\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.genruntimeconfig.cache
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\ProjetoCsvHelper\ProjetoCsvHelper\obj\Debug\net6.0\ref\ProjetoCsvHelper.dll

@@ -1,0 +1,15 @@
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\Directory_And_Directory_Info\directory_and_directoryInfo\bin\Debug\net6.0\directory_and_directoryInfo.exe
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\Directory_And_Directory_Info\directory_and_directoryInfo\bin\Debug\net6.0\directory_and_directoryInfo.deps.json
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\Directory_And_Directory_Info\directory_and_directoryInfo\bin\Debug\net6.0\directory_and_directoryInfo.runtimeconfig.json
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\Directory_And_Directory_Info\directory_and_directoryInfo\bin\Debug\net6.0\directory_and_directoryInfo.dll
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\Directory_And_Directory_Info\directory_and_directoryInfo\bin\Debug\net6.0\directory_and_directoryInfo.pdb
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\Directory_And_Directory_Info\directory_and_directoryInfo\obj\Debug\net6.0\directory_and_directoryInfo.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\Directory_And_Directory_Info\directory_and_directoryInfo\obj\Debug\net6.0\directory_and_directoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\Directory_And_Directory_Info\directory_and_directoryInfo\obj\Debug\net6.0\directory_and_directoryInfo.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\Directory_And_Directory_Info\directory_and_directoryInfo\obj\Debug\net6.0\directory_and_directoryInfo.AssemblyInfo.cs
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\Directory_And_Directory_Info\directory_and_directoryInfo\obj\Debug\net6.0\directory_and_directoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\Directory_And_Directory_Info\directory_and_directoryInfo\obj\Debug\net6.0\directory_and_directoryInfo.dll
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\Directory_And_Directory_Info\directory_and_directoryInfo\obj\Debug\net6.0\refint\directory_and_directoryInfo.dll
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\Directory_And_Directory_Info\directory_and_directoryInfo\obj\Debug\net6.0\directory_and_directoryInfo.pdb
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\Directory_And_Directory_Info\directory_and_directoryInfo\obj\Debug\net6.0\directory_and_directoryInfo.genruntimeconfig.cache
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\Directory_And_Directory_Info\directory_and_directoryInfo\obj\Debug\net6.0\ref\directory_and_directoryInfo.dll

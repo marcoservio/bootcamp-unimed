@@ -1,0 +1,15 @@
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\StringWriter\StringWriter\bin\Debug\net6.0\StringWriter.exe
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\StringWriter\StringWriter\bin\Debug\net6.0\StringWriter.deps.json
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\StringWriter\StringWriter\bin\Debug\net6.0\StringWriter.runtimeconfig.json
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\StringWriter\StringWriter\bin\Debug\net6.0\StringWriter.dll
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\StringWriter\StringWriter\bin\Debug\net6.0\StringWriter.pdb
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\StringWriter\StringWriter\obj\Debug\net6.0\StringWriter.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\StringWriter\StringWriter\obj\Debug\net6.0\StringWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\StringWriter\StringWriter\obj\Debug\net6.0\StringWriter.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\StringWriter\StringWriter\obj\Debug\net6.0\StringWriter.AssemblyInfo.cs
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\StringWriter\StringWriter\obj\Debug\net6.0\StringWriter.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\StringWriter\StringWriter\obj\Debug\net6.0\StringWriter.dll
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\StringWriter\StringWriter\obj\Debug\net6.0\refint\StringWriter.dll
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\StringWriter\StringWriter\obj\Debug\net6.0\StringWriter.pdb
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\StringWriter\StringWriter\obj\Debug\net6.0\StringWriter.genruntimeconfig.cache
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\StringWriter\StringWriter\obj\Debug\net6.0\ref\StringWriter.dll

@@ -41,6 +41,7 @@
  - Primeiros passos com .NET
  - Fundamentos de Coleções e LINQ com .NET
  - Tratamento de Erros em C# com Exceptions
+ - Trabalhando com Arquivos e Streams em C#
 
 ## Fazendo
-- Trabalhando com Arquivos e Streams em C#
+- Programando com Orientação a Objeto com C#

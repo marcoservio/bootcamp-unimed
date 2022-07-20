@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "directory_and_directoryInfo/1.0.0": {
+        "runtime": {
+          "directory_and_directoryInfo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "directory_and_directoryInfo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\StringReader\StringReader\bin\Debug\net6.0\StringReader.exe
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\StringReader\StringReader\bin\Debug\net6.0\StringReader.deps.json
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\StringReader\StringReader\bin\Debug\net6.0\StringReader.runtimeconfig.json
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\StringReader\StringReader\bin\Debug\net6.0\StringReader.dll
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\StringReader\StringReader\bin\Debug\net6.0\StringReader.pdb
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\StringReader\StringReader\obj\Debug\net6.0\StringReader.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\StringReader\StringReader\obj\Debug\net6.0\StringReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\StringReader\StringReader\obj\Debug\net6.0\StringReader.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\StringReader\StringReader\obj\Debug\net6.0\StringReader.AssemblyInfo.cs
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\StringReader\StringReader\obj\Debug\net6.0\StringReader.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\StringReader\StringReader\obj\Debug\net6.0\StringReader.dll
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\StringReader\StringReader\obj\Debug\net6.0\refint\StringReader.dll
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\StringReader\StringReader\obj\Debug\net6.0\StringReader.pdb
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\StringReader\StringReader\obj\Debug\net6.0\StringReader.genruntimeconfig.cache
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\StringReader\StringReader\obj\Debug\net6.0\ref\StringReader.dll

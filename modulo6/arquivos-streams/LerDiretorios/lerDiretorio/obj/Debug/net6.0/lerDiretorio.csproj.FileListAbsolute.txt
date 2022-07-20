@@ -1,0 +1,15 @@
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\LerDiretorios\lerDiretorio\bin\Debug\net6.0\lerDiretorio.exe
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\LerDiretorios\lerDiretorio\bin\Debug\net6.0\lerDiretorio.deps.json
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\LerDiretorios\lerDiretorio\bin\Debug\net6.0\lerDiretorio.runtimeconfig.json
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\LerDiretorios\lerDiretorio\bin\Debug\net6.0\lerDiretorio.dll
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\LerDiretorios\lerDiretorio\bin\Debug\net6.0\lerDiretorio.pdb
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\LerDiretorios\lerDiretorio\obj\Debug\net6.0\lerDiretorio.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\LerDiretorios\lerDiretorio\obj\Debug\net6.0\lerDiretorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\LerDiretorios\lerDiretorio\obj\Debug\net6.0\lerDiretorio.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\LerDiretorios\lerDiretorio\obj\Debug\net6.0\lerDiretorio.AssemblyInfo.cs
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\LerDiretorios\lerDiretorio\obj\Debug\net6.0\lerDiretorio.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\LerDiretorios\lerDiretorio\obj\Debug\net6.0\lerDiretorio.dll
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\LerDiretorios\lerDiretorio\obj\Debug\net6.0\refint\lerDiretorio.dll
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\LerDiretorios\lerDiretorio\obj\Debug\net6.0\lerDiretorio.pdb
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\LerDiretorios\lerDiretorio\obj\Debug\net6.0\lerDiretorio.genruntimeconfig.cache
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\arquivos-streams\LerDiretorios\lerDiretorio\obj\Debug\net6.0\ref\lerDiretorio.dll
