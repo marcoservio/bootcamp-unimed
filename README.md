@@ -46,6 +46,8 @@
  - Construtores, Propriedades, Delegates e Eventos em .NET
  - Introdução a Clean Code e SOLID com .NET e C#
  - Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#
+ - Principais Protocolos de Comunicação da Internet
+ - Desenvolvimento de aplicações com .NET
 
 ## Fazendo
-- 
+- Configuração da arquitetura back-end com .NET Core
