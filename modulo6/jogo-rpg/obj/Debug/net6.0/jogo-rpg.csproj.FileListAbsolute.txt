@@ -1,0 +1,15 @@
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\jogo-rpg\bin\Debug\net6.0\jogo-rpg.exe
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\jogo-rpg\bin\Debug\net6.0\jogo-rpg.deps.json
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\jogo-rpg\bin\Debug\net6.0\jogo-rpg.runtimeconfig.json
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\jogo-rpg\bin\Debug\net6.0\jogo-rpg.dll
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\jogo-rpg\bin\Debug\net6.0\jogo-rpg.pdb
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\jogo-rpg\obj\Debug\net6.0\jogo-rpg.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\jogo-rpg\obj\Debug\net6.0\jogo-rpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\jogo-rpg\obj\Debug\net6.0\jogo-rpg.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\jogo-rpg\obj\Debug\net6.0\jogo-rpg.AssemblyInfo.cs
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\jogo-rpg\obj\Debug\net6.0\jogo-rpg.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\jogo-rpg\obj\Debug\net6.0\jogo-rpg.dll
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\jogo-rpg\obj\Debug\net6.0\refint\jogo-rpg.dll
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\jogo-rpg\obj\Debug\net6.0\jogo-rpg.pdb
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\jogo-rpg\obj\Debug\net6.0\jogo-rpg.genruntimeconfig.cache
+C:\Users\marco\OneDrive\git-marcoservio\bootcampUnimedBH\modulo6\jogo-rpg\obj\Debug\net6.0\ref\jogo-rpg.dll
