@@ -48,6 +48,7 @@
  - Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#
  - Principais Protocolos de Comunicação da Internet
  - Desenvolvimento de aplicações com .NET
+ - Configuração da arquitetura back-end com .NET Core
 
 ## Fazendo
-- Configuração da arquitetura back-end com .NET Core
+- Criando um APP simples de cadastro de séries em .NET
